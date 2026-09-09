@@ -6,3 +6,5 @@ venv/
 .vercel/
 .pytest_cache/
 *.egg-info/
+.vercel
+.env*
